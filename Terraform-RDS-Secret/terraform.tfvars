@@ -1,0 +1,13 @@
+projectname        = "lambdards" #always use lower case without any special character as this name will be used in appending  with other reosurces name (to avoid conflicts)
+dbuser             = "admin"
+dbpassword         = "Temp2021" #There should be minimum 8 characters and can contain non alpha/numeric characters
+vpc_cidr           = "192.168.0.0/24"
+subnet_cidr1       = "192.168.0.128/25"
+subnet_cidr2       = "192.168.0.0/25"
+region             = "ap-southeast-1"
+availability_zone1 = "ap-southeast-1a"
+availability_zone2 = "ap-southeast-1b"
+disk_size          = 10
+engine_version     = "8.0.28"
+instance_size      = "db.t2.micro"
+storage_type       = "gp2"
