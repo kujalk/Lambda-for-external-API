@@ -16,7 +16,7 @@ Developer - K.Janarthanan
 
 Blog - 
 
-
+![alt text](https://github.com/kujalk/Lambda-for-external-API/blob/main/architecture.png?raw=true)
 ![alt text](https://github.com/kujalk/Lambda-for-external-API/blob/main/architecture.png) 
 ![Alt text](architecture.png?raw=true "Title")
 ![Screenshot](architecture.png)
