@@ -15,3 +15,6 @@ Note - Current lambda is scheduled at every 5 hrs using CloudWatch Event
 Developer - K.Janarthanan
 
 Blog - 
+
+
+![alt text](https://github.com/kujalk/Lambda-for-external-API/blob/main/architecture.png) 
