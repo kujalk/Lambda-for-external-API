@@ -16,6 +16,5 @@ Developer - K.Janarthanan
 
 Blog - 
 
-![alt text](https://github.com/kujalk/S3_with_Athena/blob/master/Flow%20Chart.png)
-![alt text](https://github.com/kujalk/Lambda-for-external-API/blob/main/architecture.png) 
+![alt text](https://github.com/kujalk/Lambda-for-external-API/blob/main/architecture.png)
 
