@@ -1,3 +1,9 @@
+Developer - K.Janarthanan
+
+Architecture
+---------------
+![alt text](https://github.com/kujalk/Lambda-for-external-API/blob/main/architecture.png)
+
 1. Terraform code is attached in "Terraform"
 2. Lambda function is zipped with in "deployment.zip"
 
@@ -12,8 +18,8 @@ Terraform execution
 
 Note - Current lambda is scheduled at every 5 hrs using CloudWatch Event
 
-Developer - K.Janarthanan
+Blog
+------------
+https://scripting4ever.wordpress.com/2022/07/23/lambda-to-call-external-api-and-store-details-in-rds-quick-deployment-using-terraform/
 
-Blog - 
 
-![alt text](https://github.com/kujalk/Lambda-for-external-API/blob/main/architecture.png)
